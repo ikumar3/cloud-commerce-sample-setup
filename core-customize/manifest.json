@@ -7,7 +7,7 @@
 		"backoffice"
 	],
 	"disableImageReuse": true
-	"aspects": [{
+	"aspects":[{
 			"name": "backoffice",
 			"webapps": [{
 					"name": "hac",
