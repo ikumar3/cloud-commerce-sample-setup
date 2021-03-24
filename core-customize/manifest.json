@@ -6,7 +6,7 @@
 		"yacceleratorstorefront",
 		"backoffice"
 	],
-
+	"disableImageReuse": true
 	"aspects": [{
 			"name": "backoffice",
 			"webapps": [{
